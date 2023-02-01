@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>new Website</title>
+  <title>new test Website</title>
  </head>
  <body>
- <?php echo '<p>new Website!</p>'; ?> 
+ <?php echo '<p>new test Website!</p>'; ?> 
  </body>
 </html>
