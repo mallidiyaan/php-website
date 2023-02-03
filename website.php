@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>news Website</title>
+  <title>news reader Website</title>
  </head>
  <body>
- <?php echo '<p>news Website!</p>'; ?> 
+ <?php echo '<p>news reader Website!</p>'; ?> 
  </body>
 </html>
